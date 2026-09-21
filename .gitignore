@@ -1,0 +1,8 @@
+# This repository publishes only the safe static website under docs/.
+*
+!README.md
+!.gitignore
+!docs/
+!docs/**
+!.github/
+!.github/**

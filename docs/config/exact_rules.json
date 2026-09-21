@@ -1,0 +1,1059 @@
+[
+  {
+    "keyword": "工程",
+    "source": "提    款",
+    "category": "Captial Expenditures",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "修繕保養",
+    "source": "提    款",
+    "category": "Captial Expenditures",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "修繕保養",
+    "source": "提    款",
+    "category": "Captial Expenditures",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "特殊直線焊接機30%訂金",
+    "source": "提    款",
+    "category": "Captial Expenditures",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "裝潢第二期45%",
+    "source": "提    款",
+    "category": "Captial Expenditures",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "廢水設備拆除遷移工程-頭款30%",
+    "source": "提    款",
+    "category": "Captial Expenditures",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "CW",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "CELESTICA",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "CW",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ETC",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "SMTC",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "CELESTICA",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "CARBON",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "CW",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "COOLIANCE",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "COOLIANCE",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "DC",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "營所稅-11506",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "NRAO",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ASSOCIATED",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "768",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "TRAKKA",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "COOLIANCE",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ABACO",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "TELEDYNE",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "CW USA",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "Subcom",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "AMETEK",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "DRS",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存息",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存息",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存息",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "火險批改新址退費",
+    "source": "存    款",
+    "category": "cash inflow",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "雜項購置",
+    "source": "提    款",
+    "category": "Facilities Expenses",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "雜項購置",
+    "source": "提    款",
+    "category": "Facilities Expenses",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "雜項購置",
+    "source": "提    款",
+    "category": "Facilities Expenses",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "07月中華電信",
+    "source": "提    款",
+    "category": "office",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "07月中華電信",
+    "source": "提    款",
+    "category": "office",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "104",
+    "source": "提    款",
+    "category": "office",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "IT費用-2026/7",
+    "source": "提    款",
+    "category": "office",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "文具印刷",
+    "source": "提    款",
+    "category": "office",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "保全",
+    "source": "提    款",
+    "category": "office",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "污水處理費",
+    "source": "提    款",
+    "category": "office",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "廠區維護費",
+    "source": "提    款",
+    "category": "office",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "產險",
+    "source": "提    款",
+    "category": "office",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "電話費",
+    "source": "提    款",
+    "category": "office",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ENYA",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ENYA",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ERIN",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ERIN",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "EVELYN",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ROCK",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "SOBO",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "SOBO",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "YANA",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ZOE",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ZOE",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "出口費用",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他費用",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他費用",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他費用",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他費用",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他費用",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他費用",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他費用",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "淑芹",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "匯費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "匯費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "匯費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "匯費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "匯費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "運費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "運費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "運費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "運費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "運費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "運費",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "零用金",
+    "source": "提    款",
+    "category": "Other",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "水費",
+    "source": "提    款",
+    "category": "Power & water",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "電費",
+    "source": "提    款",
+    "category": "Power & water",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "電費",
+    "source": "提    款",
+    "category": "Power & water",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "電費8/1-8/10(二廠)",
+    "source": "提    款",
+    "category": "Power & water",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ARIF",
+    "source": "提    款",
+    "category": "Professional Expense",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "元磁",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "加工費",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "加工費",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "加工費",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他營業成本",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他營業成本",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他營業成本",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他營業成本",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他營業成本",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他營業成本",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他營業成本",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他營業成本",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "其他營業成本",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "原料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "桐櫟",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "消耗品",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "消耗品",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "消耗品",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "間接材料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "間接材料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "間接材料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "間接材料",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "模治具",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "鑫盛源",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "ASM",
+    "source": "提    款",
+    "category": "Raw Materials",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "專利費",
+    "source": "提    款",
+    "category": "RD expenses",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "508",
+    "source": "應付兌現",
+    "category": "Rent",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "租金",
+    "source": "提    款",
+    "category": "Rent",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "員工聚餐",
+    "source": "提    款",
+    "category": "Salary & Benefits",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "健保費-11506",
+    "source": "提    款",
+    "category": "Salary & Benefits",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "勞工退休金-11505",
+    "source": "提    款",
+    "category": "Salary & Benefits",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "勞保費-11506",
+    "source": "提    款",
+    "category": "Salary & Benefits",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "薪資-11507",
+    "source": "提    款",
+    "category": "Salary & Benefits",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "薪資代扣稅款-11507",
+    "source": "提    款",
+    "category": "Salary & Benefits",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "職工福利",
+    "source": "提    款",
+    "category": "Salary & Benefits",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "EMILY",
+    "source": "提    款",
+    "category": "Travel & Entertainment",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存1M/3.48%",
+    "source": "轉    帳",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存到期#150706001",
+    "source": "轉    帳",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存1M/3.25%",
+    "source": "轉    帳",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存到期#150727005",
+    "source": "轉    帳",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存1M/3%",
+    "source": "轉    帳",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "沖#150730003",
+    "source": "轉    帳",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "結售US15W*31.834（月結付款)",
+    "source": "提    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "結售US15W*31.624（月結付款）",
+    "source": "提    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "結售US100,000",
+    "source": "提    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "結售US100,000",
+    "source": "提    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "調撥支存",
+    "source": "提    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存到期",
+    "source": "存    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存1M/3.48%",
+    "source": "存    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存到期",
+    "source": "存    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存1M/3.25%",
+    "source": "存    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存到期",
+    "source": "存    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "定存1M/3%",
+    "source": "存    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "結售US15W*31.854",
+    "source": "存    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "結售US15W*31.624",
+    "source": "存    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "結售US10w*32.406",
+    "source": "存    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "結售US100,000*32.154",
+    "source": "存    款",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  },
+  {
+    "keyword": "514",
+    "source": "轉    帳",
+    "category": "自行轉帳",
+    "priority": 10000,
+    "exact": true
+  }
+]

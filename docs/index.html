@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>銀行明細管理報表轉換器</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <p class="eyebrow">SOTHYS · REPORT TOOL</p>
+      <h1>銀行明細管理報表轉換器</h1>
+      <p class="lead">選擇 ERP 匯出的銀行明細，系統會在瀏覽器內完成分類並下載管理報表。檔案不會上傳。</p>
+    </header>
+
+    <section class="card converter">
+      <div class="step"><span>1</span><div><strong>選擇 ERP Excel</strong><small>支援 .xlsx，請勿選擇已轉換的管理報表</small></div></div>
+      <label class="dropzone" id="dropzone">
+        <input id="fileInput" type="file" accept=".xlsx">
+        <b id="fileName">按這裡選擇檔案，或拖曳檔案到此處</b>
+        <small>Excel 僅在這台電腦處理</small>
+      </label>
+      <button id="convertButton" class="primary" disabled>產生並下載管理報表</button>
+      <div id="status" class="status" role="status" aria-live="polite"></div>
+      <div id="result" class="result hidden"></div>
+    </section>
+
+    <section class="card rules-card">
+      <div class="section-title">
+        <div><p class="eyebrow">可自行維護</p><h2>分類規則</h2></div>
+        <button id="toggleRules" class="secondary">展開規則設定</button>
+      </div>
+      <p class="muted">當客戶遇到新項目，可新增關鍵字與分類。設定會保存在目前瀏覽器中，也可匯出備份。</p>
+      <div id="rulesPanel" class="hidden">
+        <form id="ruleForm" class="rule-form">
+          <input id="keyword" required placeholder="關鍵字，例如：停車費">
+          <select id="category"></select>
+          <input id="source" placeholder="來源類別（可留空）">
+          <input id="priority" type="number" value="100" min="0" placeholder="優先順序">
+          <label class="check"><input id="exact" type="checkbox"> 完全相符</label>
+          <button class="primary" type="submit">新增規則</button>
+        </form>
+        <div class="toolbar">
+          <button id="exportRules" class="secondary">匯出規則備份</button>
+          <label class="secondary file-button">匯入規則<input id="importRules" type="file" accept=".json"></label>
+          <button id="resetRules" class="danger">恢復預設</button>
+        </div>
+        <div class="table-wrap"><table><thead><tr><th>關鍵字</th><th>分類</th><th>來源類別</th><th>優先</th><th>比對</th><th></th></tr></thead><tbody id="rulesBody"></tbody></table></div>
+      </div>
+    </section>
+
+    <footer>建議使用最新版 Chrome 或 Edge。若結果出現「待確認」，請先新增分類規則再重新產生。</footer>
+  </main>
+  <script src="vendor/exceljs.min.js"></script>
+  <script src="vendor/xlsx.full.min.js"></script>
+  <script src="app.js?v=10"></script>
+</body>
+</html>
