@@ -140,7 +140,7 @@
     "exact": true
   },
   {
-    "keyword": "768",
+    "keyword": "",
     "source": "存    款",
     "category": "cash inflow",
     "priority": 10000,
@@ -833,7 +833,7 @@
     "exact": true
   },
   {
-    "keyword": "508",
+    "keyword": "",
     "source": "應付兌現",
     "category": "Rent",
     "priority": 10000,
@@ -1050,7 +1050,7 @@
     "exact": true
   },
   {
-    "keyword": "514",
+    "keyword": "",
     "source": "轉    帳",
     "category": "自行轉帳",
     "priority": 10000,
